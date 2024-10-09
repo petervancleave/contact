@@ -1,10 +1,19 @@
-# Contact Me
 
 
+<div align="center">
+  <strong style="color: #ADEBB3;">Email:</strong> <align="center" style="color: #ADEBB3;">petervancleave@gmail.com<br><br>
+  
+  <strong style="color: #ADEBB3;">Phone:</strong> 720-500-3618<br>
 
-**Email:** petervancleave1@gmail.com
+ </div> 
 
-**Phone:** 720-500-3618
+#
+
+<div align="center">
+  <a href="https://petervancleave.github.io/">back to home</a><br><br>
 
 
-back to home: https://petervancleave.github.io/
+<div align="center">
+  <img src="https://studioghibli.jp/static/media/butterfly.8e1a40df.gif" alt="cabbage moths"  />
+
+  </div>
