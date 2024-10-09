@@ -7,7 +7,9 @@
 
  </div> 
 
----
+<div align="center">
+  <h1 style="border-bottom: 1px solid #ccc;"></h1>
+</div>
 
 <div align="center">
   <a href="https://petervancleave.github.io/">back to home</a><br><br>
