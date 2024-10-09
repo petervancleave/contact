@@ -1,6 +1,6 @@
 
 
-<div align="center">
+<div align="left">
   <strong style="color: #ADEBB3;">Email:</strong> petervancleave@gmail.com<br><br>
   
   <strong style="color: #ADEBB3;">Phone:</strong> 720-500-3618<br>
@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <a href="https://petervancleave.github.io/">back to home</a><br><br>
+  <a href="https://petervancleave.github.io/">homepage</a><br><br>
 
 
 <div align="center">
