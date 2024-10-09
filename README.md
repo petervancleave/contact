@@ -11,11 +11,11 @@
   <h1 style="border-bottom: 1px solid #ccc;"></h1>
 </div>
 
-<div align="center">
+<div align="left">
   <a href="https://petervancleave.github.io/">homepage</a><br><br>
 
 
-<div align="center">
+<div align="left">
   <img src="https://studioghibli.jp/static/media/butterfly.8e1a40df.gif" alt="cabbage moths"  />
 
   </div>
