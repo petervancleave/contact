@@ -1,7 +1,7 @@
 
 
 <div align="left">
-  <strong style="color: #ADEBB3;">Email:</strong> petervancleave@gmail.com<br><br>
+  <strong style="color: #ADEBB3;">Email:</strong> petervancleave1@gmail.com<br><br>
   
   <strong style="color: #ADEBB3;">Phone:</strong> 720-500-3618<br>
 
